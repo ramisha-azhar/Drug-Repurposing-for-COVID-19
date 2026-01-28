@@ -7,11 +7,15 @@ config <- function(){
   
   #diseases <- c("Alzheimer Disease", "Amyloid Neuropathies", 
         #        "Language Disorders", "Memory Disorders")
-  diseases <- c("COVID-19","Severe Acute Respiratory Syndrome")
+  
+  diseases <- c("COVID-19","Severe Acute Respiratory Syndrome", "Hemorrhagic Fever, Ebola")
+  #insert the name of the diseases to be tested
+  #the disease name should be the same as found in the phenopedia file
+  
   #################################
   # parameters for computing end network
   
-  dirRes <- "Results/"        
+  dirRes <- "Results/"    #set the name of this folder example COVID-19   
 
   interaction = "similarity"  # edge-weight = similarity or proximity
   pval_thr = 0.05             # select significative drug-disease association
@@ -26,8 +30,8 @@ config <- function(){
   #################################
   # parameters for computing subnetwork
 
-  #sel_drug = "acebutolol"
-  sel_disease = "COVID-19"
+  #sel_drug = "acebutolol" #set the name of the drug of interest
+  sel_disease = "COVID-19" #set the name of the disease of interest this will create a folder in the subnetwork folder of the Result
    sel_drug = NULL
   # sel_disease = NULL
   #################################
