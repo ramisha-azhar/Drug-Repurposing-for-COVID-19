@@ -1,0 +1,366 @@
+node	cluster
+Severe Acute Respiratory Syndrome	1
+5-o-phosphono-alpha-d-ribofuranosyl diphosphate	1
+abciximab	1
+acenocoumarol	1
+adalimumab	1
+ademetionine	1
+albutrepenonacog alfa	1
+alefacept	1
+alemtuzumab	1
+alogliptin	1
+alpha-1-proteinase inhibitor	1
+alteplase	1
+ambrisentan	1
+amlexanox	1
+amsacrine	1
+anakinra	1
+ancrod	1
+angiotensin ii	1
+anistreplase	1
+anti-inhibitor coagulant complex	1
+antihemophilic factor, human recombinant	1
+antithrombin alfa	1
+antithrombin iii human	1
+apixaban	1
+ardeparin	1
+argatroban	1
+azilsartan medoxomil	1
+baricitinib	1
+basiliximab	1
+bemiparin	1
+benazepril	1
+benralizumab	1
+betrixaban	1
+bevacizumab	1
+binimetinib	1
+bivalirudin	1
+bosentan	1
+calcium chloride	1
+canakinumab	1
+candesartan cilexetil	1
+captopril	1
+carbinoxamine	1
+carboxin	1
+catumaxomab	1
+cefazolin	1
+certolizumab pegol	1
+cetuximab	1
+chloramphenicol	1
+chloroquine	1
+chlorpheniramine	1
+chondroitin sulfate	1
+chromic chloride	1
+cilazapril	1
+citalopram	1
+clemastine	1
+clenbuterol	1
+clofarabine	1
+coagulation factor ix human	1
+coagulation factor vii human	1
+coagulation factor viia recombinant human	1
+cobimetinib	1
+conestat alfa	1
+copper	1
+cupric chloride	1
+cyclizine	1
+cysteine	1
+dabigatran etexilate	1
+damoctocog alfa pegol	1
+danaparoid	1
+didanosine	1
+dimenhydrinate	1
+dimetindene	1
+diphenhydramine	1
+diphenylpyraline	1
+drotrecogin alfa	1
+dupilumab	1
+duvelisib	1
+edoxaban	1
+efalizumab	1
+emapalumab	1
+emedastine	1
+emicizumab	1
+enalaprilat	1
+enoxaparin	1
+eprosartan	1
+etanercept	1
+fedratinib	1
+ferric cation	1
+filgrastim	1
+flavin mononucleotide	1
+flunarizine	1
+fondaparinux	1
+foreskin fibroblast (neonatal)	1
+foreskin keratinocyte (neonatal)	1
+fosinopril	1
+framycetin	1
+gadopentetic acid	1
+gallium nitrate	1
+gemcitabine	1
+gemtuzumab ozogamicin	1
+gentamicin	1
+ginseng	1
+glatiramer	1
+glucosamine	1
+golimumab	1
+guselkumab	1
+halazepam	1
+heparin	1
+human c1-esterase inhibitor	1
+human immunoglobulin g	1
+human thrombin	1
+hydroxychloroquine	1
+hydroxyurea	1
+ibalizumab	1
+ibritumomab tiuxetan	1
+idelalisib	1
+imiquimod	1
+infliximab	1
+insulin pork	1
+interferon alfa-2a, recombinant	1
+interferon alfa-2b	1
+interferon alfa-n1	1
+interferon alfa-n3	1
+interferon alfacon-1	1
+interferon beta-1a	1
+interferon beta-1b	1
+interferon gamma-1b	1
+isopropyl alcohol	1
+ketoprofen	1
+ketotifen	1
+keyhole limpet hemocyanin	1
+l-glutamine	1
+lepirudin	1
+levamlodipine	1
+levocetirizine	1
+lifitegrast	1
+linagliptin	1
+lisinopril	1
+lonoctocog alfa	1
+loratadine	1
+losartan	1
+lovastatin	1
+lyme disease vaccine (recombinant ospa)	1
+macitentan	1
+maraviroc	1
+masoprocol	1
+mecasermin	1
+meclizine	1
+mercaptopurine	1
+methyl aminolevulinate	1
+methylene blue	1
+miconazole	1
+mifamurtide	1
+minocycline	1
+moexipril	1
+mogamulizumab	1
+moroctocog alfa	1
+muromonab	1
+mycophenolate mofetil	1
+natalizumab	1
+nimesulide	1
+nonacog beta pegol	1
+nylidrin	1
+obinutuzumab	1
+ocrelizumab	1
+ofatumumab	1
+olmesartan	1
+olsalazine	1
+palivizumab	1
+papain	1
+parecoxib	1
+peginterferon alfa-2a	1
+peginterferon alfa-2b	1
+perindopril	1
+phenindione	1
+phenprocoumon	1
+pitavastatin	1
+plerixafor	1
+pomalidomide	1
+porfimer sodium	1
+pramlintide	1
+proflavine	1
+propylene glycol	1
+protamine sulfate	1
+protein s human	1
+prothrombin	1
+ramipril	1
+reteplase	1
+rilonacept	1
+risankizumab	1
+rituximab	1
+rivaroxaban	1
+rosuvastatin	1
+rupatadine	1
+rutin	1
+ruxolitinib	1
+salmon calcitonin	1
+sarilumab	1
+saxagliptin	1
+siltuximab	1
+simvastatin	1
+sitagliptin	1
+sitaxentan	1
+sodium tetradecyl sulfate	1
+streptokinase	1
+sucralfate	1
+sulfasalazine	1
+sulodexide	1
+technetium tc-99m nofetumomab merpentan	1
+tenecteplase	1
+tetraferric tricitrate decahydrate	1
+thalidomide	1
+thrombin	1
+thrombin alfa	1
+thrombomodulin alfa	1
+tildrakizumab	1
+tinzaparin	1
+tocilizumab	1
+tofacitinib	1
+tositumomab	1
+trandolapril	1
+trastuzumab	1
+trastuzumab deruxtecan	1
+tripelennamine	1
+tuberculin purified protein derivative	1
+upadacitinib	1
+urokinase	1
+ustekinumab	1
+valsartan	1
+vildagliptin	1
+vinorelbine	1
+vonicog alfa	1
+vorapaxar	1
+ximelagatran	1
+zinc	1
+zinc acetate	1
+zinc chloride	1
+5cocktail	1
+COVID-19	2
+acrivastine	2
+alcaftadine	2
+alimemazine	2
+aminocaproic acid	2
+amrinone	2
+anisindione	2
+antazoline	2
+antihemophilic factor human	2
+azatadine	2
+bepotastine	2
+bilastine	2
+bromodiphenhydramine	2
+cetirizine	2
+chlorcyclizine	2
+clofedanol	2
+coagulation factor ix (recombinant)	2
+coccidioides immitis spherule	2
+desloratadine	2
+dexbrompheniramine	2
+dexchlorpheniramine maleate	2
+enalapril	2
+entacapone	2
+fexofenadine	2
+hydroxyzine	2
+kappadione	2
+menadione	2
+mepyramine	2
+methdilazine	2
+mycophenolic acid	2
+nialamide	2
+opicapone	2
+phenindamine	2
+phylloquinone	2
+quinapril	2
+rescinnamine	2
+riboflavin	2
+sapropterin	2
+spirapril	2
+tiludronic acid	2
+tolcapone	2
+triprolidine	2
+turoctocog alfa	2
+turoctocog alfa pegol	2
+zofenopril	2
+alverine	2
+amifampridine	2
+asparagine	2
+astemizole	2
+avanafil	2
+azacitidine	2
+bacitracin	2
+caffeine	2
+camphor	2
+corticorelin ovine triflutate	2
+crisaborole	2
+dacarbazine	2
+decitabine	2
+deserpidine	2
+diacerein	2
+dipyridamole	2
+doxapram	2
+drotaverine	2
+dyphylline	2
+estradiol	2
+estradiol benzoate	2
+flucytosine	2
+glimepiride	2
+iloprost	2
+isoniazid	2
+isradipine	2
+ixekizumab	2
+latanoprost	2
+latanoprostene bunod	2
+lopinavir	2
+migalastat	2
+nelarabine	2
+nifedipine	2
+noscapine	2
+oseltamivir	2
+papaverine	2
+pentazocine	2
+phenylalanine	2
+piperazine	2
+propylhexedrine	2
+roflumilast	2
+romidepsin	2
+scopolamine	2
+secukinumab	2
+streptozocin	2
+sulfinpyrazone	2
+tadalafil	2
+tafluprost	2
+telotristat ethyl	2
+teriparatide	2
+threonine	2
+travoprost	2
+udenafil	2
+Hemorrhagic Fever, Ebola	3
+miglitol	3
+flavin adenine dinucleotide	3
+abacavir	3
+alpha-tocopherol succinate	3
+alprazolam	3
+benzylpenicilloyl polylysine	3
+bromazepam	3
+carisoprodol	3
+clorazepic acid	3
+clotiazepam	3
+d-alpha-tocopherol acetate	3
+diazepam	3
+estazolam	3
+flumazenil	3
+flunitrazepam	3
+ingenol mebutate	3
+methyprylon	3
+midostaurin	3
+oxazepam	3
+phosphatidyl serine	3
+prazepam	3
+primidone	3
+quazepam	3
+tamoxifen	3
+temazepam	3
+triazolam	3
+vitamin a	3
+vitamin e	3
