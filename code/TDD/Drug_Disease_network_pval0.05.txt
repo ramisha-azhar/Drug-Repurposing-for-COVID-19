@@ -1,0 +1,409 @@
+disease	drug	proximity	pval	similarity	adjusted_similarity
+COVID-19	acrivastine	1	0.042200802	0.8	0.986750547127744
+COVID-19	alcaftadine	1	0.04161242	0.8	0.986750547127744
+COVID-19	alimemazine	1	0.044843011	0.8	0.986750547127744
+COVID-19	alverine	1	0.045787005	0.8	0.986750547127744
+COVID-19	amifampridine	1	0.034338783	0.8	0.986750547127744
+COVID-19	aminocaproic acid	0.666666667	0.003054591	0.8666666666	0.995649213819819
+COVID-19	amrinone	1	0.004953049	0.8	0.986750547127744
+COVID-19	anisindione	0	0.000494791	1	0.999537403793522
+COVID-19	antazoline	1	0.026153288	0.8	0.986750547127744
+COVID-19	antihemophilic factor human	1	0.037000485	0.8	0.986750547127744
+COVID-19	asparagine	1.166666667	0.010888278	0.7666666666	0.977004041219429
+COVID-19	astemizole	1	0.021948489	0.8	0.986750547127744
+COVID-19	avanafil	1	5.18e-06	0.8	0.986750547127744
+COVID-19	azacitidine	0	6.44e-08	1	0.999537403793522
+COVID-19	azatadine	1	0.034145871	0.8	0.986750547127744
+COVID-19	bacitracin	0.5	0.003304639	0.9	0.997513345159931
+COVID-19	bepotastine	1	0.016708873	0.8	0.986750547127744
+COVID-19	bilastine	1	0.023133954	0.8	0.986750547127744
+COVID-19	bromodiphenhydramine	1	0.002325987	0.8	0.986750547127744
+COVID-19	caffeine	1.5	0.00349187	0.7	0.932553690638086
+COVID-19	camphor	1.5	0.035008554	0.7	0.932553690638086
+COVID-19	cetirizine	1	0.02663977	0.8	0.986750547127744
+COVID-19	chlorcyclizine	1	0.029005886	0.8	0.986750547127744
+COVID-19	clofedanol	1	0.026153288	0.8	0.986750547127744
+COVID-19	coagulation factor ix (recombinant)	1.142857143	0.036754006	0.7714285714	0.190589784974957
+COVID-19	coccidioides immitis spherule	1	0.010547167	0.8	0.986750547127744
+COVID-19	corticorelin ovine triflutate	1	0.01684862	0.8	0.986750547127744
+COVID-19	crisaborole	1	0.003049412	0.8	0.986750547127744
+COVID-19	dacarbazine	0.5	0.028468934	0.9	0.997513345159931
+COVID-19	decitabine	0	0.007565675	1	0.999537403793522
+COVID-19	deserpidine	1	0.031681265	0.8	0.986750547127744
+COVID-19	desloratadine	1	0.046397164	0.8	0.986750547127744
+COVID-19	dexbrompheniramine	1	0.040701925	0.8	0.986750547127744
+COVID-19	dexchlorpheniramine maleate	1	0.016708873	0.8	0.986750547127744
+COVID-19	diacerein	1.333333333	0.023456278	0.7333333334	0.960375760270577
+COVID-19	dipyridamole	1.333333333	0.007929386	0.7333333334	0.960375760270577
+COVID-19	doxapram	1	0.026116908	0.8	0.986750547127744
+COVID-19	drotaverine	1	0.043372074	0.8	0.986750547127744
+COVID-19	dyphylline	1.5	0.044073124	0.7	0.932553690638086
+COVID-19	enalapril	1	0.030316224	0.8	0.986750547127744
+COVID-19	entacapone	0	0.007573988	1	0.999537403793522
+COVID-19	estradiol	1	0.022085672	0.8	0.986750547127744
+COVID-19	estradiol benzoate	1	0.035728493	0.8	0.986750547127744
+COVID-19	fexofenadine	1	0.022677194	0.8	0.986750547127744
+COVID-19	flavin adenine dinucleotide	1.346153846	0.000655026	0.7307692308	0.135547308191401
+COVID-19	flucytosine	0	0.003137502	1	0.999537403793522
+COVID-19	glimepiride	1.333333333	0.032948002	0.7333333334	0.960375760270577
+COVID-19	hydroxyzine	1	0.013472051	0.8	0.986750547127744
+COVID-19	iloprost	1.375	0.048318201	0.725	0.95467712833048
+COVID-19	isoniazid	1	1.6e-05	0.8	0.986750547127744
+COVID-19	isradipine	1.571428571	0.029522647	0.6857142858	0.915756767880311
+COVID-19	ixekizumab	1	2.43e-05	0.8	0.986750547127744
+COVID-19	kappadione	0.857142857	0.000721207	0.8285714286	0.991768860578011
+COVID-19	latanoprost	1	0.02663977	0.8	0.986750547127744
+COVID-19	latanoprostene bunod	1	0.012922929	0.8	0.986750547127744
+COVID-19	lopinavir	1.333333333	0.043525152	0.7333333334	0.960375760270577
+COVID-19	menadione	1.153846154	0.001049077	0.7692307692	0.977954364234297
+COVID-19	mepyramine	1	0.034145871	0.8	0.986750547127744
+COVID-19	methdilazine	1	0.008929131	0.8	0.986750547127744
+COVID-19	migalastat	0	0.002790208	1	0.999537403793522
+COVID-19	mycophenolic acid	0.5	0.003846159	0.9	0.997513345159931
+COVID-19	nelarabine	0	0.009600716	1	0.999537403793522
+COVID-19	nialamide	1.333333333	0.035379458	0.7333333334	0.960375760270577
+COVID-19	nifedipine	1.333333333	0.027047528	0.7333333334	0.960375760270577
+COVID-19	noscapine	0	9.27e-10	1	0.999537403793522
+COVID-19	opicapone	0	0.005392425	1	0.999537403793522
+COVID-19	oseltamivir	1	0.009396035	0.8	0.986750547127744
+COVID-19	papaverine	1	0.000844668	0.8	0.986750547127744
+COVID-19	pentazocine	1	0.016625495	0.8	0.986750547127744
+COVID-19	phenindamine	1	0.0138285	0.8	0.986750547127744
+COVID-19	phenylalanine	1.285714286	0.019332109	0.7428571428	0.966047541526261
+COVID-19	phylloquinone	0.5	3.83e-05	0.9	0.997513345159931
+COVID-19	piperazine	1	0.044843011	0.8	0.986750547127744
+COVID-19	propylhexedrine	1	0.011195598	0.8	0.986750547127744
+COVID-19	quinapril	1	0.023296852	0.8	0.986750547127744
+COVID-19	rescinnamine	1	0.034338783	0.8	0.986750547127744
+COVID-19	riboflavin	1	0.000772673	0.8	0.986750547127744
+COVID-19	roflumilast	1	0.001273155	0.8	0.986750547127744
+COVID-19	romidepsin	0.6	0.004758034	0.88	0.996521099190661
+COVID-19	sapropterin	1	0.00329072	0.8	0.986750547127744
+COVID-19	scopolamine	1.625	0.049905262	0.675	0.900753799006629
+COVID-19	secukinumab	1	0.000143541	0.8	0.986750547127744
+COVID-19	spirapril	1	0.038314193	0.8	0.986750547127744
+COVID-19	streptozocin	1	0.025702176	0.8	0.986750547127744
+COVID-19	sulfinpyrazone	1	0.02293942	0.8	0.986750547127744
+COVID-19	tadalafil	1	4.33e-05	0.8	0.986750547127744
+COVID-19	tafluprost	1	0.003525365	0.8	0.986750547127744
+COVID-19	telotristat ethyl	1	0.000143541	0.8	0.986750547127744
+COVID-19	teriparatide	1	0.038314193	0.8	0.986750547127744
+COVID-19	threonine	1	0.01176664	0.8	0.986750547127744
+COVID-19	tiludronic acid	0.5	0.03038334	0.9	0.997513345159931
+COVID-19	tolcapone	0	0.004637676	1	0.999537403793522
+COVID-19	travoprost	1	0.004752629	0.8	0.986750547127744
+COVID-19	triprolidine	1	0.0138285	0.8	0.986750547127744
+COVID-19	turoctocog alfa	1	0.036009567	0.8	0.986750547127744
+COVID-19	turoctocog alfa pegol	1	0.026260774	0.8	0.986750547127744
+COVID-19	udenafil	1	0.00035751	0.8	0.986750547127744
+COVID-19	zofenopril	1	0.042200802	0.8	0.986750547127744
+Hemorrhagic Fever, Ebola	abacavir	1	2.08e-23	0.8	0.997951722243767
+Hemorrhagic Fever, Ebola	alpha-tocopherol succinate	1.777777778	0.001514903	0.6444444444	0.960989926390041
+Hemorrhagic Fever, Ebola	alprazolam	2.285714286	0.036218087	0.5428571428	0.778171536427695
+Hemorrhagic Fever, Ebola	benzylpenicilloyl polylysine	1.5	0.003435471	0.7	0.986211811908482
+Hemorrhagic Fever, Ebola	bromazepam	2.266666667	0.049111049	0.5466666666	0.790531790866439
+Hemorrhagic Fever, Ebola	carisoprodol	2	0.013554754	0.6	0.913046406678443
+Hemorrhagic Fever, Ebola	clorazepic acid	2.285714286	0.044480556	0.5428571428	0.778171536427695
+Hemorrhagic Fever, Ebola	clotiazepam	2.230769231	0.025249185	0.5538461538	0.812430798286628
+Hemorrhagic Fever, Ebola	d-alpha-tocopherol acetate	1.777777778	0.000860451	0.6444444444	0.960989926390041
+Hemorrhagic Fever, Ebola	diazepam	2.25	0.034261506	0.55	0.800925496005837
+Hemorrhagic Fever, Ebola	estazolam	2.266666667	0.045371721	0.5466666666	0.790531790866439
+Hemorrhagic Fever, Ebola	flavin adenine dinucleotide	2.153846154	0.034505677	0.5692307692	0.853342280994669
+Hemorrhagic Fever, Ebola	flumazenil	2.307692308	0.044318407	0.5384615384	0.763272689314898
+Hemorrhagic Fever, Ebola	flunitrazepam	2.222222222	0.045548717	0.5555555556	0.817377560296097
+Hemorrhagic Fever, Ebola	ingenol mebutate	1.5	0.000778463	0.7	0.986211811908482
+Hemorrhagic Fever, Ebola	methyprylon	2.307692308	0.043611214	0.5384615384	0.763272689314898
+Hemorrhagic Fever, Ebola	midostaurin	1.833333333	0.017132907	0.6333333334	0.952164102693629
+Hemorrhagic Fever, Ebola	miglitol	2	0.045371752	0.6	0.913046406678443
+Hemorrhagic Fever, Ebola	oxazepam	2.266666667	0.033323021	0.5466666666	0.790531790866439
+Hemorrhagic Fever, Ebola	phosphatidyl serine	2.1	0.034365505	0.58	0.877362005013957
+Hemorrhagic Fever, Ebola	prazepam	2.266666667	0.047422355	0.5466666666	0.790531790866439
+Hemorrhagic Fever, Ebola	primidone	2.294117647	0.043895938	0.5411764706	0.772555293860723
+Hemorrhagic Fever, Ebola	quazepam	2.266666667	0.030456481	0.5466666666	0.790531790866439
+Hemorrhagic Fever, Ebola	tamoxifen	1.823529412	0.000223904	0.6352941176	0.953848772071551
+Hemorrhagic Fever, Ebola	temazepam	2.25	0.044541272	0.55	0.800925496005837
+Hemorrhagic Fever, Ebola	triazolam	2.25	0.034619938	0.55	0.800925496005837
+Hemorrhagic Fever, Ebola	vitamin a	2.294117647	0.03594688	0.5411764706	0.772555293860723
+Hemorrhagic Fever, Ebola	vitamin e	1.777777778	0.001700548	0.6444444444	0.960989926390041
+Severe Acute Respiratory Syndrome	5-o-phosphono-alpha-d-ribofuranosyl diphosphate	1.666666667	0.020542943	0.6666666666	0.954932934566418
+Severe Acute Respiratory Syndrome	5cocktail	1.833333333	0.036105146	0.6333333334	0.920032707485389
+Severe Acute Respiratory Syndrome	abciximab	1.615384615	5.07e-05	0.676923077	0.96236272189531
+Severe Acute Respiratory Syndrome	acenocoumarol	1	0.01684862	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	acrivastine	1	0.002170363	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	adalimumab	0	0.001273155	1	0.999894897372381
+Severe Acute Respiratory Syndrome	ademetionine	1.875	0.041892897	0.625	0.908055222546773
+Severe Acute Respiratory Syndrome	albutrepenonacog alfa	1	0.001385596	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	alcaftadine	1	4.84e-05	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	alefacept	1.7	0.00069864	0.66	0.949374589876431
+Severe Acute Respiratory Syndrome	alemtuzumab	1.7	4.9e-05	0.66	0.949374589876431
+Severe Acute Respiratory Syndrome	alimemazine	1	0.008659439	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	alogliptin	1	5.46e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	alpha-1-proteinase inhibitor	1	0.002325987	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	alteplase	1	6.44e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	ambrisentan	1.5	0.032367547	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	aminocaproic acid	1.333333333	0.013369867	0.7333333334	0.138579949510618
+Severe Acute Respiratory Syndrome	amlexanox	1.75	0.021641826	0.65	0.939808243549735
+Severe Acute Respiratory Syndrome	amrinone	1.5	0.023867162	0.7	0.103357055935275
+Severe Acute Respiratory Syndrome	amsacrine	1.5	0.008469356	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	anakinra	1	7.67e-09	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	ancrod	1	4.1e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	angiotensin ii	1	4.79e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	anisindione	1	0.000826394	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	anistreplase	1	1.07e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	antazoline	1	6.44e-08	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	anti-inhibitor coagulant complex	0.875	1.59e-28	0.825	0.997412066502636
+Severe Acute Respiratory Syndrome	antihemophilic factor human	1	7.74e-06	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	antihemophilic factor, human recombinant	1.363636364	2.72e-07	0.7272727272	0.98469042974225
+Severe Acute Respiratory Syndrome	antithrombin alfa	0.5	2.03e-09	0.9	0.999343790828901
+Severe Acute Respiratory Syndrome	antithrombin iii human	1	0.000160848	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	apixaban	1	0.001296123	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	ardeparin	1	4.53e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	argatroban	0	1.7e-07	1	0.999894897372381
+Severe Acute Respiratory Syndrome	azatadine	1	0.000485529	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	azilsartan medoxomil	1	0.000143541	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	baricitinib	1.25	0.006041671	0.75	0.989851550880322
+Severe Acute Respiratory Syndrome	basiliximab	1.75	0.003525365	0.65	0.939808243549735
+Severe Acute Respiratory Syndrome	bemiparin	1	1.6e-08	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	benazepril	0	3.47e-14	1	0.999894897372381
+Severe Acute Respiratory Syndrome	benralizumab	1.5	0.003054591	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	bepotastine	1	2.43e-05	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	betrixaban	1	5.46e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	bevacizumab	1.7	0.000186984	0.66	0.949374589876431
+Severe Acute Respiratory Syndrome	bilastine	1	0.010455593	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	binimetinib	0.8	7.85e-09	0.84	0.998032688924953
+Severe Acute Respiratory Syndrome	bivalirudin	0	1.44e-12	1	0.999894897372381
+Severe Acute Respiratory Syndrome	bosentan	1.5	0.006016778	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	bromodiphenhydramine	1	0.001994221	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	calcium chloride	1	2.43e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	canakinumab	0	2.53e-10	1	0.999894897372381
+Severe Acute Respiratory Syndrome	candesartan cilexetil	1	4.1e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	captopril	1	8.76e-13	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	carbinoxamine	1	0.000958758	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	carboxin	1	0.019968885	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	catumaxomab	1.571428571	0.000579387	0.6857142858	0.967781315755903
+Severe Acute Respiratory Syndrome	cefazolin	1.666666667	0.023223232	0.6666666666	0.954932934566418
+Severe Acute Respiratory Syndrome	certolizumab pegol	0	0.007433097	1	0.999894897372381
+Severe Acute Respiratory Syndrome	cetirizine	1	0.001217201	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	cetuximab	1.727272727	0.004505963	0.6545454546	0.944350139438234
+Severe Acute Respiratory Syndrome	chloramphenicol	1	4.1e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	chlorcyclizine	1	0.000485529	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	chloroquine	1.333333333	0.011427021	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	chlorpheniramine	1.75	0.013114373	0.65	0.939808243549735
+Severe Acute Respiratory Syndrome	chondroitin sulfate	1.5	0.001051428	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	chromic chloride	1	0.006830513	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	cilazapril	0	1.28e-11	1	0.999894897372381
+Severe Acute Respiratory Syndrome	citalopram	1.5	0.007383403	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	clemastine	1	0.002170363	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	clenbuterol	1.4	0.002322794	0.72	0.982546474722964
+Severe Acute Respiratory Syndrome	clofarabine	1.5	0.019392058	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	clofedanol	1	0.000222043	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	coagulation factor ix (recombinant)	1	2.55e-18	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	coagulation factor ix human	1	2.62e-18	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	coagulation factor vii human	1.333333333	3.99e-05	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	coagulation factor viia recombinant human	1.833333333	0.040077029	0.6333333334	0.920032707485389
+Severe Acute Respiratory Syndrome	cobimetinib	1	0.023296852	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	coccidioides immitis spherule	1	2.14e-08	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	conestat alfa	1.333333333	1.3e-07	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	copper	1.735294118	3.37e-06	0.6529411764	0.942785183283004
+Severe Acute Respiratory Syndrome	cupric chloride	1	5.28e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	cyclizine	1.5	0.024100319	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	cysteine	1.846153846	0.040995431	0.6307692308	0.916507600236996
+Severe Acute Respiratory Syndrome	dabigatran etexilate	0	2.13e-10	1	0.999894897372381
+Severe Acute Respiratory Syndrome	damoctocog alfa pegol	1	7.22e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	danaparoid	1	3.26e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	desloratadine	1	0.003137502	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	dexbrompheniramine	1	0.001317948	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	dexchlorpheniramine maleate	1	0.009508237	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	didanosine	1	0.003525365	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	dimenhydrinate	1	1.51e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	dimetindene	1.5	0.000947249	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	diphenhydramine	1.5	0.000509398	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	diphenylpyraline	1.5	0.000648821	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	drotrecogin alfa	0.916666667	1.14e-40	0.8166666666	0.996986484392535
+Severe Acute Respiratory Syndrome	dupilumab	1	0.000143541	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	duvelisib	1.5	0.019817239	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	edoxaban	1	0.000756916	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	efalizumab	1.6	7.98e-06	0.68	0.964352179198266
+Severe Acute Respiratory Syndrome	emapalumab	0	4.22e-10	1	0.999894897372381
+Severe Acute Respiratory Syndrome	emedastine	1	2.9e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	emicizumab	1	0.000182462	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	enalapril	0	1.21e-32	1	0.999894897372381
+Severe Acute Respiratory Syndrome	enalaprilat	1	3.16e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	enoxaparin	1	1.85e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	entacapone	1	0.004752629	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	eprosartan	1	6.63e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	etanercept	1.538461538	8.86e-07	0.6923076924	0.971342306380058
+Severe Acute Respiratory Syndrome	fedratinib	1.333333333	0.003706431	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	ferric cation	1	0.019817239	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	fexofenadine	1	0.000958758	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	filgrastim	1.5	0.019817239	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	flavin mononucleotide	1.7	0.001992952	0.66	0.949374589876431
+Severe Acute Respiratory Syndrome	flunarizine	1.6	0.030296407	0.68	0.964352179198266
+Severe Acute Respiratory Syndrome	fondaparinux	1	1.48e-09	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	foreskin fibroblast (neonatal)	1.2	8.81e-08	0.76	0.173579477776354
+Severe Acute Respiratory Syndrome	foreskin keratinocyte (neonatal)	1.181818182	1.94e-09	0.7636363636	0.17885790075587
+Severe Acute Respiratory Syndrome	fosinopril	0	2.07e-15	1	0.999894897372381
+Severe Acute Respiratory Syndrome	framycetin	1	0.01684862	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	gadopentetic acid	1	0.019968885	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	gallium nitrate	1.5	0.000470587	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	gemcitabine	1.666666667	0.028910609	0.6666666666	0.954932934566418
+Severe Acute Respiratory Syndrome	gemtuzumab ozogamicin	1.636363636	5.29e-06	0.6727272728	0.95947726203091
+Severe Acute Respiratory Syndrome	gentamicin	1.5	0.0138285	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	ginseng	1.333333333	0.000299977	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	glatiramer	0	2.57e-11	1	0.999894897372381
+Severe Acute Respiratory Syndrome	glucosamine	0.75	1.98e-09	0.85	0.998361489324248
+Severe Acute Respiratory Syndrome	golimumab	0	0.002844741	1	0.999894897372381
+Severe Acute Respiratory Syndrome	guselkumab	1	0.006670002	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	halazepam	2.066666667	0.048251035	0.5866666666	0.830308393748236
+Severe Acute Respiratory Syndrome	heparin	1.75	0.004560016	0.65	0.939808243549735
+Severe Acute Respiratory Syndrome	human c1-esterase inhibitor	1.333333333	2.11e-09	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	human immunoglobulin g	1.7	0.001707721	0.66	0.949374589876431
+Severe Acute Respiratory Syndrome	human thrombin	1.125	1.01e-16	0.775	0.993556746054405
+Severe Acute Respiratory Syndrome	hydroxychloroquine	1	1.85e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	hydroxyurea	1	0.021971111	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	hydroxyzine	1	1.51e-05	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	ibalizumab	1.333333333	0.00456523	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	ibritumomab tiuxetan	1.636363636	5.98e-05	0.6727272728	0.95947726203091
+Severe Acute Respiratory Syndrome	idelalisib	1	0.025343719	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	imiquimod	1	1.33e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	infliximab	0	0.003963405	1	0.999894897372381
+Severe Acute Respiratory Syndrome	insulin pork	1.666666667	0.000179206	0.6666666666	0.954932934566418
+Severe Acute Respiratory Syndrome	interferon alfa-2a, recombinant	1	1.06e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	interferon alfa-2b	1	8.22e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	interferon alfa-n1	1	1.31e-09	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	interferon alfa-n3	1	1.59e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	interferon alfacon-1	1	2.16e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	interferon beta-1a	1	8.22e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	interferon beta-1b	1	2.18e-16	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	interferon gamma-1b	1	1.45e-12	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	isopropyl alcohol	1.785714286	0.021322728	0.6428571428	0.931965230645022
+Severe Acute Respiratory Syndrome	kappadione	1	2.14e-21	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	ketoprofen	1.666666667	0.013228375	0.6666666666	0.954932934566418
+Severe Acute Respiratory Syndrome	ketotifen	1	1.79e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	keyhole limpet hemocyanin	1	1.7e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	l-glutamine	1.333333333	4.86e-06	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	lepirudin	0	1.91e-06	1	0.999894897372381
+Severe Acute Respiratory Syndrome	levamlodipine	1.25	0.000273132	0.75	0.989851550880322
+Severe Acute Respiratory Syndrome	levocetirizine	1	0.000131997	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	lifitegrast	1	5.46e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	linagliptin	1	0.003466974	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	lisinopril	1	5.26e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	lonoctocog alfa	1.363636364	6.52e-07	0.7272727272	0.98469042974225
+Severe Acute Respiratory Syndrome	loratadine	1.5	0.000401652	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	losartan	1	6.63e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	lovastatin	1.333333333	0.008674182	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	lyme disease vaccine (recombinant ospa)	1	2.08e-23	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	macitentan	1.5	0.007383403	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	maraviroc	1	0.011309699	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	masoprocol	1.5	0.019968885	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	mecasermin	1.5	0.010515354	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	meclizine	1.5	0.008197536	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	menadione	1.307692308	1.14e-13	0.7384615384	0.144815986657382
+Severe Acute Respiratory Syndrome	mepyramine	1	0.000131997	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	mercaptopurine	1.5	0.003706431	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	methdilazine	1	0.010033437	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	methyl aminolevulinate	1	0.000401652	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	methylene blue	1.5	0.009754457	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	miconazole	1.833333333	0.012321588	0.6333333334	0.920032707485389
+Severe Acute Respiratory Syndrome	mifamurtide	1.5	0.030499728	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	miglitol	1.75	0.018630187	0.65	0.0653467333354644
+Severe Acute Respiratory Syndrome	minocycline	1.285714286	3.14e-09	0.7428571428	0.988449059586391
+Severe Acute Respiratory Syndrome	moexipril	1	1.96e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	mogamulizumab	1	0.001418066	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	moroctocog alfa	1.363636364	1.11e-07	0.7272727272	0.98469042974225
+Severe Acute Respiratory Syndrome	muromonab	1.714285714	0.001273042	0.6571428572	0.946798730773779
+Severe Acute Respiratory Syndrome	mycophenolate mofetil	1.666666667	0.025400835	0.6666666666	0.954932934566418
+Severe Acute Respiratory Syndrome	mycophenolic acid	1.5	0.022677194	0.7	0.103357055935275
+Severe Acute Respiratory Syndrome	natalizumab	1.636363636	0.00299627	0.6727272728	0.95947726203091
+Severe Acute Respiratory Syndrome	nialamide	1.666666667	0.032533363	0.6666666666	0.0762938615794113
+Severe Acute Respiratory Syndrome	nimesulide	1.5	0.037547176	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	nonacog beta pegol	1.333333333	1.63e-09	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	nylidrin	1.5	0.000207943	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	obinutuzumab	1	3.26e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	ocrelizumab	1	0.001163293	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	ofatumumab	1	7.21e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	olmesartan	1	7.67e-09	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	olsalazine	1	1.25e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	opicapone	1	0.000370198	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	palivizumab	1.666666667	0.002164445	0.6666666666	0.954932934566418
+Severe Acute Respiratory Syndrome	papain	1	0.003525365	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	parecoxib	1.5	0.004954394	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	peginterferon alfa-2a	1	1.59e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	peginterferon alfa-2b	1	3.1e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	perindopril	1	1.73e-19	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	phenindamine	1	0.007917069	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	phenindione	1	0.002325987	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	phenprocoumon	1	0.000370198	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	phylloquinone	1.5	0.003515376	0.7	0.103357055935275
+Severe Acute Respiratory Syndrome	pitavastatin	1.5	4.84e-05	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	plerixafor	1	0.006830513	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	pomalidomide	1.333333333	0.009962064	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	porfimer sodium	1.5	0.012215752	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	pramlintide	1.75	0.042070556	0.65	0.939808243549735
+Severe Acute Respiratory Syndrome	proflavine	0	4.74e-07	1	0.999894897372381
+Severe Acute Respiratory Syndrome	propylene glycol	1	0.00035751	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	protamine sulfate	1	1.14e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	protein s human	0.666666667	2.73e-19	0.8666666666	0.998792116073719
+Severe Acute Respiratory Syndrome	prothrombin	1	5e-11	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	quinapril	0	6.44e-08	1	0.698366604594021
+Severe Acute Respiratory Syndrome	ramipril	1	6.53e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	rescinnamine	0	3.74e-08	1	0.698366604594021
+Severe Acute Respiratory Syndrome	reteplase	1	5.02e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	riboflavin	1.5	0.009458151	0.7	0.103357055935275
+Severe Acute Respiratory Syndrome	rilonacept	0.666666667	6.6e-17	0.8666666666	0.998792116073719
+Severe Acute Respiratory Syndrome	risankizumab	0.5	5.82e-09	0.9	0.999343790828901
+Severe Acute Respiratory Syndrome	rituximab	1	0.001296123	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	rivaroxaban	1	5.46e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	rosuvastatin	1.5	0.00732795	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	rupatadine	1.5	0.001317948	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	rutin	1.5	0.016131929	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	ruxolitinib	1	0.000337496	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	salmon calcitonin	1	0.000120539	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	sapropterin	1.5	0.007507673	0.7	0.103357055935275
+Severe Acute Respiratory Syndrome	sarilumab	1.428571429	1.67e-09	0.7142857142	0.980657431927755
+Severe Acute Respiratory Syndrome	saxagliptin	1	7.22e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	siltuximab	0	5.25e-13	1	0.999894897372381
+Severe Acute Respiratory Syndrome	simvastatin	1.333333333	0.014224758	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	sitagliptin	1	0.000778463	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	sitaxentan	1.5	0.010455593	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	sodium tetradecyl sulfate	1	2.71e-11	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	spirapril	0	4.83e-10	1	0.698366604594021
+Severe Acute Respiratory Syndrome	streptokinase	1	0.004698155	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	sucralfate	1.6	0.014654399	0.68	0.964352179198266
+Severe Acute Respiratory Syndrome	sulfasalazine	1.7	0.023401616	0.66	0.949374589876431
+Severe Acute Respiratory Syndrome	sulodexide	1	4.85e-10	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	technetium tc-99m nofetumomab merpentan	1.5	0.016702068	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	tenecteplase	1.272727273	1.44e-07	0.7454545454	0.988979943283069
+Severe Acute Respiratory Syndrome	tetraferric tricitrate decahydrate	1	0.02681328	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	thalidomide	1.428571429	0.004657727	0.7142857142	0.980657431927755
+Severe Acute Respiratory Syndrome	thrombin	1.1	4.89e-19	0.78	0.994117433383417
+Severe Acute Respiratory Syndrome	thrombin alfa	1.125	5.88e-19	0.775	0.993556746054405
+Severe Acute Respiratory Syndrome	thrombomodulin alfa	0	9.53e-19	1	0.999894897372381
+Severe Acute Respiratory Syndrome	tildrakizumab	0.5	4.8e-08	0.9	0.999343790828901
+Severe Acute Respiratory Syndrome	tiludronic acid	1	0.002927344	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	tinzaparin	1.333333333	0.004653327	0.7333333334	0.986277286347795
+Severe Acute Respiratory Syndrome	tocilizumab	1	0.000650423	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	tofacitinib	1.25	0.008648442	0.75	0.989851550880322
+Severe Acute Respiratory Syndrome	tolcapone	1	6.63e-06	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	tositumomab	1.6	1.21e-05	0.68	0.964352179198266
+Severe Acute Respiratory Syndrome	trandolapril	0	3.45e-16	1	0.999894897372381
+Severe Acute Respiratory Syndrome	trastuzumab	1.666666667	0.011053081	0.6666666666	0.954932934566418
+Severe Acute Respiratory Syndrome	trastuzumab deruxtecan	1.5	0.015712763	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	tripelennamine	1	1.51e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	triprolidine	1	6.79e-05	0.8	0.238582226433829
+Severe Acute Respiratory Syndrome	tuberculin purified protein derivative	1	4.1e-05	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	turoctocog alfa	0.666666667	3.94e-18	0.8666666666	0.378998439979883
+Severe Acute Respiratory Syndrome	turoctocog alfa pegol	0.666666667	7.25e-12	0.8666666666	0.378998439979883
+Severe Acute Respiratory Syndrome	upadacitinib	1	0.023296852	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	urokinase	1.3	1.18e-10	0.74	0.987835865418244
+Severe Acute Respiratory Syndrome	ustekinumab	0.5	4.62e-10	0.9	0.999343790828901
+Severe Acute Respiratory Syndrome	valsartan	1	7.22e-06	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	vildagliptin	1	5.46e-07	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	vinorelbine	1	0.038314193	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	vonicog alfa	1.5	0.011195598	0.7	0.975015245013086
+Severe Acute Respiratory Syndrome	vorapaxar	1	2.08e-23	0.8	0.995914758816832
+Severe Acute Respiratory Syndrome	ximelagatran	0	3.87e-06	1	0.999894897372381
+Severe Acute Respiratory Syndrome	zinc	1.852173913	0.004859547	0.6295652174	0.91480405844146
+Severe Acute Respiratory Syndrome	zinc acetate	1.852173913	0.011260309	0.6295652174	0.91480405844146
+Severe Acute Respiratory Syndrome	zinc chloride	1.852173913	0.004686869	0.6295652174	0.91480405844146
+Severe Acute Respiratory Syndrome	zofenopril	0	2e-11	1	0.698366604594021
