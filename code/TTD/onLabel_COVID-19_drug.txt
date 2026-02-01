@@ -1,0 +1,91 @@
+TTD_association	drug	proximity	pval	similarity	adjusted_similarity
+Allergic rhinitis 	acrivastine	1	0.042200802	0.8	0.986750547127744
+Allergic conjunctivitis 	alcaftadine	1	0.04161242	0.8	0.986750547127744
+LambertEaton myasthenic syndrome 	amifampridine	1	0.034338783	0.8	0.986750547127744
+Postoperative hemorrhage 	aminocaproic acid	0.666666667	0.003054591	0.8666666666	0.995649213819819
+Bleeding disorder 	aminocaproic acid	0.666666667	0.003054591	0.8666666666	0.995649213819819
+Coagulation defect 	anisindione	0	0.000494791	1	0.999537403793522
+Nasal congestion 	antazoline	1	0.026153288	0.8	0.986750547127744
+Erectile dysfunction 	avanafil	1	5.18e-06	0.8	0.986750547127744
+Myelodysplastic syndrome 	azacitidine	0	6.44e-08	1	0.999537403793522
+Allergic rhinitis 	azatadine	1	0.034145871	0.8	0.986750547127744
+Skin infection 	bacitracin	0.5	0.003304639	0.9	0.997513345159931
+Allergic rhinitis 	bepotastine	1	0.016708873	0.8	0.986750547127744
+Hay fever 	bromodiphenhydramine	1	0.002325987	0.8	0.986750547127744
+Orthostatic hypotension 	caffeine	1.5	0.00349187	0.7	0.932553690638086
+Acute or chronic pain 	camphor	1.5	0.035008554	0.7	0.932553690638086
+Allergic rhinitis 	cetirizine	1	0.02663977	0.8	0.986750547127744
+Diagnostic imaging 	corticorelin ovine triflutate	1	0.01684862	0.8	0.986750547127744
+Atopic dermatitis 	crisaborole	1	0.003049412	0.8	0.986750547127744
+Melanoma 	dacarbazine	0.5	0.028468934	0.9	0.997513345159931
+Myelodysplastic syndrome 	decitabine	0	0.007565675	1	0.999537403793522
+Hypertension 	deserpidine	1	0.031681265	0.8	0.986750547127744
+Allergic rhinitis 	desloratadine	1	0.046397164	0.8	0.986750547127744
+Hay fever 	dexbrompheniramine	1	0.040701925	0.8	0.986750547127744
+Rhinitis 	dexchlorpheniramine maleate	1	0.016708873	0.8	0.986750547127744
+Hypertension 	dipyridamole	1.333333333	0.007929386	0.7333333334	0.960375760270577
+Respiratory disease 	doxapram	1	0.026116908	0.8	0.986750547127744
+Irritable bowel syndrome 	drotaverine	1	0.043372074	0.8	0.986750547127744
+Acute bronchial asthma 	dyphylline	1.5	0.044073124	0.7	0.932553690638086
+Hypertension 	enalapril	1	0.030316224	0.8	0.986750547127744
+Parkinson disease 	entacapone	0	0.007573988	1	0.999537403793522
+Breast cancer 	estradiol	1	0.022085672	0.8	0.986750547127744
+Allergic rhinitis 	fexofenadine	1	0.022677194	0.8	0.986750547127744
+Endocarditis 	flucytosine	0	0.003137502	1	0.999537403793522
+Diabetic complication 	glimepiride	1.333333333	0.032948002	0.7333333334	0.960375760270577
+Anxiety disorder 	hydroxyzine	1	0.013472051	0.8	0.986750547127744
+Pulmonary arterial hypertension 	iloprost	1.375	0.048318201	0.725	0.95467712833048
+Tuberculosis 	isoniazid	1	1.6e-05	0.8	0.986750547127744
+Hypertension 	isradipine	1.571428571	0.029522647	0.6857142858	0.915756767880311
+Psoriatic arthritis 	ixekizumab	1	2.43e-05	0.8	0.986750547127744
+Plaque psoriasis 	ixekizumab	1	2.43e-05	0.8	0.986750547127744
+Glaucoma/ocular hypertension 	latanoprost	1	0.02663977	0.8	0.986750547127744
+Open-angle glaucoma 	latanoprost	1	0.02663977	0.8	0.986750547127744
+Human immunodeficiency virus infection 	lopinavir	1.333333333	0.043525152	0.7333333334	0.960375760270577
+Prostate cancer 	menadione	1.153846154	0.001049077	0.7692307692	0.977954364234297
+Vitamin K deficiency 	menadione	1.153846154	0.001049077	0.7692307692	0.977954364234297
+Allergy 	mepyramine	1	0.034145871	0.8	0.986750547127744
+Allergic rhinitis 	methdilazine	1	0.008929131	0.8	0.986750547127744
+Fabry disease 	migalastat	0	0.002790208	1	0.999537403793522
+leukaemia 	nelarabine	0	0.009600716	1	0.999537403793522
+Angina pectoris 	nifedipine	1.333333333	0.027047528	0.7333333334	0.960375760270577
+Parkinson disease 	opicapone	0	0.005392425	1	0.999537403793522
+Influenza virus infection 	oseltamivir	1	0.009396035	0.8	0.986750547127744
+Spasm 	papaverine	1	0.000844668	0.8	0.986750547127744
+Pain 	pentazocine	1	0.016625495	0.8	0.986750547127744
+Common cold 	phenindamine	1	0.0138285	0.8	0.986750547127744
+Enterobiasis 	piperazine	1	0.044843011	0.8	0.986750547127744
+Ascariasis 	piperazine	1	0.044843011	0.8	0.986750547127744
+Obesity 	propylhexedrine	1	0.011195598	0.8	0.986750547127744
+Hypertension 	quinapril	1	0.023296852	0.8	0.986750547127744
+Hypertension 	rescinnamine	1	0.034338783	0.8	0.986750547127744
+Acne vulgaris 	riboflavin	1	0.000772673	0.8	0.986750547127744
+Asthma 	roflumilast	1	0.001273155	0.8	0.986750547127744
+Type-2 diabetes 	roflumilast	1	0.001273155	0.8	0.986750547127744
+Peripheral T-cell lymphoma 	romidepsin	0.6	0.004758034	0.88	0.996521099190661
+Renal cell carcinoma 	romidepsin	0.6	0.004758034	0.88	0.996521099190661
+Cutaneous T-cell lymphoma 	romidepsin	0.6	0.004758034	0.88	0.996521099190661
+Nausea 	scopolamine	1.625	0.049905262	0.675	0.900753799006629
+Addictive disorder 	scopolamine	1.625	0.049905262	0.675	0.900753799006629
+Rheumatoid arthritis 	secukinumab	1	0.000143541	0.8	0.986750547127744
+Multiple sclerosis 	secukinumab	1	0.000143541	0.8	0.986750547127744
+Alopecia 	secukinumab	1	0.000143541	0.8	0.986750547127744
+Type-1 diabetes 	secukinumab	1	0.000143541	0.8	0.986750547127744
+Psoriatic arthritis 	secukinumab	1	0.000143541	0.8	0.986750547127744
+Dry eye disease 	secukinumab	1	0.000143541	0.8	0.986750547127744
+Plaque psoriasis 	secukinumab	1	0.000143541	0.8	0.986750547127744
+Atopic dermatitis 	secukinumab	1	0.000143541	0.8	0.986750547127744
+Hypertension 	spirapril	1	0.038314193	0.8	0.986750547127744
+Pancreatic cancer 	streptozocin	1	0.025702176	0.8	0.986750547127744
+Gout 	sulfinpyrazone	1	0.02293942	0.8	0.986750547127744
+Erectile dysfunction 	tadalafil	1	4.33e-05	0.8	0.986750547127744
+Glaucoma/ocular hypertension 	tafluprost	1	0.003525365	0.8	0.986750547127744
+Carcinoid syndrome 	telotristat ethyl	1	0.000143541	0.8	0.986750547127744
+Carcinoid syndrome diarrhea 	telotristat ethyl	1	0.000143541	0.8	0.986750547127744
+Osteogenesis imperfecta 	teriparatide	1	0.038314193	0.8	0.986750547127744
+Osteoporosis 	tiludronic acid	0.5	0.03038334	0.9	0.997513345159931
+Parkinson disease 	tolcapone	0	0.004637676	1	0.999537403793522
+Open-angle glaucoma 	travoprost	1	0.004752629	0.8	0.986750547127744
+Hay fever 	triprolidine	1	0.0138285	0.8	0.986750547127744
+Haemophilia A 	turoctocog alfa	1	0.036009567	0.8	0.986750547127744
+Erectile dysfunction 	udenafil	1	0.00035751	0.8	0.986750547127744
