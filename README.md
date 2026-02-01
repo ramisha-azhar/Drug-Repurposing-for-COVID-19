@@ -33,6 +33,12 @@
 │       │           └── 🔁Drug_Disease_network.txt
 |       |           └── 🎯 specificDrugs.txt # Disease-specific repurposable drugs
 │       └── 🧾 Drug_Disease_network.txt # Final weighted drug–disease network
+|       │          
+        └── 📁 TTD/
+              ├── 📊 Drug_Disease_network.txt
+              ├── ⚙️ findOriginalMedicalIndication.R
+              ├── 🧾TTD_association.txt
+              └── 🧾 onLabel_COVID-19_drug.txt
 
 ```
 
@@ -515,3 +521,71 @@ This function z-score-normalizes the proximity of the
 selected drug with respect to the proximity measure
 distribution of all the candidate repurposable drugs for
 the selected disease and plots the distribution
+
+```
+        │          
+        └── 📁 TTD/
+              ├── 📊 Drug_Disease_network.txt
+              ├── ⚙️ findOriginalMedicalIndication.R
+              ├── 🧾TTD_association.txt
+              └── 🧾 onLabel_COVID-19_drug.txt
+```
+
+## TTD
+The Therapeutic Target Database (TTD) is a curated resource that links drugs to their molecular targets and therapeutic indications. In drug repurposing studies, TTD is commonly used to validate predicted drug–disease associations by comparing network-based predictions with known clinical indications, thereby supporting on-label validation and identifying potential repurposing candidates.
+
+### on-label and off-label drugs
+An on-label drug is approved for the treatment of a specific disease, whereas an off-label drug is an approved drug used for a disease outside its officially approved indication. In drug repurposing studies, off-label drugs represent promising candidates for novel diseases, while on-label drugs are commonly used for validation of computational predictions.
+
+In this study, off-label drugs are identified as candidate therapies based on their close proximity to the disease module in the interactome. These drugs are not currently approved for the disease of interest but are predicted to be relevant due to shared molecular pathways. In contrast, on-label drugs are used primarily for validation purposes. By comparing predicted drug–disease associations with known approved indications, the analysis assesses whether the network-based approach is able to recover established therapeutic relationships, thereby increasing confidence in the newly predicted off-label candidates.
+
+### input files
+
+**- TTD_association.txt**
+
+The file TTD_association.txt contains curated drug–disease associations obtained from the Therapeutic Target Database. Each entry links a drug to a disease for which it has an established therapeutic indication. In this study, this file is used as a reference dataset to validate network-based drug–disease predictions by identifying drugs that are already approved for specific diseases. The integration of TTD associations enables on-label validation and supports the interpretation of predicted off-label drug candidates.
+
+TTD_association.txt provides known clinical drug indications and is used to validate network-based drug repurposing predictions.
+
+Typically, each row in TTD_association.txt includes:
+
+- Disease / therapeutic indication
+(the disease a drug is approved to treat)
+
+- Drug name
+  
+One row = one known drug–disease relationship
+
+| **Disease**                     | **Drug** |
+|---------------------------------|----------|
+| Ischemia                        | ald-301 |
+| Peripheral arterial disease     | ald-301 |
+| Acute myeloid leukaemia         | kw-2449 |
+| Bacterial infection             | hmr-4004 |
+| Solid tumour / cancer           | anti-her-2 mab–fcgr2–fcgr4 fusion proteins |
+| Solid tumour / cancer           | hydroxyprogesterone |
+| Recurrent glioblastoma          | dicopp |
+
+
+**-  Drug_Disease_network.txt**
+
+this file has the statistically significant drug disease associations network of our disease of interest which is COVID-19 according to the significance level which is  pvalues(default:p-value≤0.05) it returns the proximity and similarity of drug-disease network 
+
+### output file
+**-  onLabel_COVID-19_drug.txt**
+
+These are on-label drugs used to validate COVID-19 drug predictions.
+
+The file onLabel_COVID-19_drug.txt contains drugs that are both predicted to be associated with COVID-19 through network-based analysis and already have known therapeutic indications according to the Therapeutic Target Database. This file represents the on-label validation set, used to assess whether the network approach can recover established drug–disease relationships. The inclusion of proximity, statistical significance, and similarity metrics enables quantitative evaluation of each drug’s relevance to COVID-19 at the molecular network level.
+
+onLabel_COVID-19_drug.txt validates the drug repurposing method by showing that known drugs appear close to the COVID-19 disease module in the network.
+
+ ## Cytoscape
+ 
+this Cytoscape network represents drug–disease associations constructed using an adjusted similarity measure that quantifies the strength of the relationship between drugs and diseases.
+
+In the network, nodes represent biological entities, where red nodes correspond to diseases (such as COVID-19 and Ebola) and the surrounding colored nodes represent drugs or chemical compounds. Edges denote associations between a drug and a disease based on similarity analysis.
+
+The color of the edges encodes the magnitude of the adjusted similarity measure. Yellow edges indicate strong similarity, reflecting a high degree of overlap between drugs and diseases in terms of molecular targets . In contrast, blue edges represent weaker similarity, indicating more indirect or lower-confidence associations and we can also see the drugs that are shared among the different diseases
+
+ <img width="1016" height="878" alt="image" src="https://github.com/user-attachments/assets/b15dc435-201f-4139-87f4-27594a6efde1" />
