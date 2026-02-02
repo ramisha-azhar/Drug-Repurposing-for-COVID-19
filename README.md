@@ -37,7 +37,7 @@
         └── 📁 TTD/
               ├── 📊 Drug_Disease_network.txt
               ├── ⚙️ findOriginalMedicalIndication.R
-              ├── 🧾TTD_association.txt
+              ├── 🧾 TTD_association.txt
               └── 🧾 onLabel_COVID-19_drug.txt
 
 ```
