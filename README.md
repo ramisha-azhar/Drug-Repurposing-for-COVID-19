@@ -416,7 +416,7 @@ This figure is a **disease–disease similarity heat map** based on **shared dru
 - **Color intensity (white to red)** indicates how many drugs overlap:
     - Darker red = more shared drugs
 - **Dendrograms** show hierarchical clustering based on similarity.
-- 
+  
 - **282 (SARS–SARS)**, **98 (COVID-19–COVID-19)**, **28 (Ebola–Ebola)**
     total drugs associated with each disease.
     
